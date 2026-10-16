@@ -29,7 +29,6 @@ import { TbBulb } from "react-icons/tb";
 import { FaDiagramProject } from "react-icons/fa6";
 import { BsBlockquoteRight } from "react-icons/bs";
 import { RiAccountCircleFill } from "react-icons/ri";
-import { TbInvoice } from "react-icons/tb";
 import { TbFileInvoice } from "react-icons/tb";
 // Admin Imports
 const MainDashboard = React.lazy(() => import("views/admin/default"));
